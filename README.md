@@ -44,12 +44,17 @@ If you require further assistance contact the support team on [Discord](https://
 ![Example-OS](https://i.imgur.com/UoGoHcM.png)
 ***
 
-***Step 6*** 
+***Step 6***
+* Choose a server size: $5/mo will be fine 
+![Example-OS](https://imgur.com/EYhmnUx.png)
+***
+
+***Step 7*** 
 * Set a Server Hostname & Label (name it whatever you want)
 ![Example-hostname](https://i.imgur.com/uu0rvOr.png)
 ***
 
-***Step 7***
+***Step 8***
 * Click "Deploy Now"
 
 ![Example-Deploy](https://i.imgur.com/4qpYuH0.png)
