@@ -196,7 +196,7 @@ If you require further assistance contact the support team on [Discord](https://
 * Start a new line at the bottom, and make it look like the example on the above line, but with your info.
 * 'Alias' 'VPS IP Address:Port' 'Genkey' 'TxHash' 'Output Index' 
 * For `Alias` type something like "MN01" **don't use spaces**
-* The `Address` is the IP and port of your server (this will be in the Putty terminal that you still have open).
+* The `Address` is the IP and port (43879) of your server (this will be in the Putty terminal that you still have open).
 * The `GenKey` is your masternode GEN key (This is also in the Putty terminal that you have open).
 * The `TxHash` is the transaction ID/long key that you copied to the text file.
 * The `Output Index` is the 0 or 1 that you copied to your text file.
