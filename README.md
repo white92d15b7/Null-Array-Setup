@@ -225,4 +225,13 @@ If you require further assistance contact the support team on [Discord](https://
 
 *You should see ***status 4 or 9***
 
-If you do, congratulations! You have now setup a NAV. If you do not, please contact support and they will assist you.
+If you do, congratulations! You have now setup a NAV. If you do not, please contact support on Discord or Telegram and they will be happy to assist you.
+
+
+This guiide was created by a community member.  NulleXReb.  If it has helped you in anyway, made your day, or was the clutch in getting your Array running drop the guy some rewards @ 
+
+NLX- AdoZ9zYgequjf7KttfLyj7ucyrBigh937T
+
+BTC- 1Eiu35Eb8AUCp8BzVNjUKd7tPXWrP96hQM
+
+
