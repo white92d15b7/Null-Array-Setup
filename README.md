@@ -111,7 +111,7 @@ If you require further assistance contact the support team on [Discord](https://
 * Paste the 2 codes below into the Putty terminal then press enter after each one (it will just go to a new line)
 ![Example-RootPassEnter](https://imgur.com/dDbHPnt.png)
 
-`wget -q "https://github.com/NLXionaire/nullex-nav-installer/master/nullex-nav-installer.sh" --show-progress`
+`wget https://raw.githubusercontent.com/NLXionaire/nullex-nav-installer/master/nullex-nav-installer.sh`
 
 `sudo chmod +x nullex-nav-installer.sh`
 
