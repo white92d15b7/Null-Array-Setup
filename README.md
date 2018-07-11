@@ -200,7 +200,7 @@ If you require further assistance contact the support team on [Discord](https://
 * The `GenKey` is your masternode GEN key (This is also in the Putty terminal that you have open).
 * The `TxHash` is the transaction ID/long key that you copied to the text file.
 * The `Output Index` is the 0 or 1 that you copied to your text file.
-![Example-create](https://i.imgur.com/9b1I3bk.png)
+![Example-create](https://imgur.com/tMkdY7h.png)
 
 * Click "File Save"
 ***
