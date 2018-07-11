@@ -226,7 +226,7 @@ If you require further assistance contact the support team on [Discord](https://
 ***Step 5***
 * Check the status of your NAV within the VPS by using the command below:
 
-`nullex-cli masternode status`
+`/usr/local/bin/NulleX/nullex-cli masternode status`
 
 *You should see ***status 4 or 9***
 
