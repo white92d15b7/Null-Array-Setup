@@ -106,7 +106,7 @@ If you require further assistance contact the support team on [Discord](https://
 * Paste the 2 codes below into the Putty terminal then press enter after each one (it will just go to a new line)
 ![Example-RootPassEnter](https://imgur.com/dDbHPnt.png)
 
-`wget -q "https://raw.githubusercontent.com/NLXionaire/nullex-nav-installer/master/nullex-nav-installer.sh" --show-progress`
+`wget -q "https://github.com/NLXionaire/nullex-nav-installer/master/nullex-nav-installer.sh" --show-progress`
 
 `sudo chmod +x nullex-nav-installer.sh`
 
@@ -140,7 +140,7 @@ If you require further assistance contact the support team on [Discord](https://
 ## Section D: Preparing the Local Wallet
 
 ***Step 1 (if neccessary)***
-* Download and install the NulleX wallet [here](https://github.com/white92d15b7/NLX/releases/tag/v1.3.3)
+* Download and install the NulleX wallet [here](https://github.com/white92d15b7/NLX/releases/tag/1.3.3-NEW)
 ***
 
 ***Step 2***
