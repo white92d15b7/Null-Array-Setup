@@ -208,7 +208,6 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 * The `Output Index` is the 0 or 1 that you copied to your text file.
 
 ![Example-create](https://imgur.com/tMkdY7h.png)
-
 * Click "File Save"
 ***
 
