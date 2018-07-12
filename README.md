@@ -45,7 +45,7 @@ If you require further assistance contact the support team on [Discord](https://
 ***
 
 ***Step 6***
-* Enable IPv6 and Private Networking to make the default settings on the script compatible.  
+* Enable IPv6 and Private Networking (there is a different cmd listed below for those that prefer IPv4)
 ![Example-OS](https://imgur.com/EYhmnUx.png)
 ***
 
@@ -123,6 +123,8 @@ If you require further assistance contact the support team on [Discord](https://
 ![Example-Bash](https://imgur.com/iOSuHgl.png)
 
 `sudo sh nullex-nav-installer.sh`
+
+***NOTE*** IPv4 users need to use `sudo sh nullex-nav-installer.sh -N 4`
 
 ***
 
