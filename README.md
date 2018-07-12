@@ -45,7 +45,7 @@ If you require further assistance contact the support team on [Discord](https://
 ***
 
 ***Step 6***
-* Enable IPv6 and Private Networking  ***(there is a different cmd listed below for those that prefer IPv4)***
+* Enable IPv6 and Private Networking  ***(there is a different cmd listed below for those using IPv4)***
 ![Example-OS](https://imgur.com/EYhmnUx.png)
 ***
 
@@ -126,7 +126,7 @@ If you require further assistance contact the support team on [Discord](https://
 
 ***NOTE*** 
 
-IPv4 users `sudo sh nullex-nav-installer.sh -N 4`
+The above cmd will install using IPv6 by default. If you are only going to be setting up a single NAV, and you prefer to use IPv4 instead you can force the install to use your IPv$ IP address by using  `sudo sh nullex-nav-installer.sh -N 4`
 
 ***
 
