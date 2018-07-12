@@ -242,7 +242,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 If you do, congratulations! You have now setup a NAV. If you do not, please contact support on Discord or Telegram and they will be happy to assist you.
 
 
-This guiide was created by a community member.  NulleXReb.  If it has helped you in anyway, made your day, or was the clutch in getting your Array running drop the guy some rewards @ 
+This guide was created by a community member.  ***NulleXReb***.  If it has helped you in anyway, made your day, or was the clutch in getting your Array running drop the guy some rewards @ 
 
 NLX- AdoZ9zYgequjf7KttfLyj7ucyrBigh937T
 
