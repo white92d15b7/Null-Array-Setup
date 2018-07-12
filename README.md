@@ -45,7 +45,7 @@ If you require further assistance contact the support team on [Discord](https://
 ***
 
 ***Step 6***
-* Choose a server size: $5/mo will be fine 
+* Enable IPv6 and Private Networking to make the default settings on the script compatible.  
 ![Example-OS](https://imgur.com/EYhmnUx.png)
 ***
 
