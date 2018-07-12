@@ -45,7 +45,7 @@ If you require further assistance contact the support team on [Discord](https://
 ***
 
 ***Step 6***
-* Enable IPv6 and Private Networking (there is a different cmd listed below for those that prefer IPv4)
+* Enable IPv6 and Private Networking  ***(there is a different cmd listed below for those that prefer IPv4)***
 ![Example-OS](https://imgur.com/EYhmnUx.png)
 ***
 
