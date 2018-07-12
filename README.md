@@ -126,7 +126,7 @@ If you require further assistance contact the support team on [Discord](https://
 
 ***NOTE*** 
 
-IPv4 users need to use `sudo sh nullex-nav-installer.sh -N 4`
+IPv4 users `sudo sh nullex-nav-installer.sh -N 4`
 
 ***
 
