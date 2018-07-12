@@ -200,12 +200,14 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 
 ***Step 2***
 * Start a new line at the bottom, and make it look like the example on the above line, but with your info.
-* 'NAV1' 'VPS IP Address:Port' 'Genkey' 'TxHash' 'Output Index' 
-* For `Alias` type something like "NAV1" **don't use spaces**
-* The `Address` is the IP and port (43879) of your server (this will be in the Putty terminal that you still have open).
-* The `GenKey` is your masternode GEN key (This is also in the Putty terminal that you have open).
-* The `TxHash` is the transaction ID/long key that you copied to the text file.
-* The `Output Index` is the 0 or 1 that you copied to your text file.
+
+ `'Alias' 'VPS IP Address:Port' 'Genkey' 'TxHash' 'Output Index'`
+
+* For `Alias` use the one you made for ***Section E: Step 4***
+* The `VPS IP Address:Port` is the IP from ***Section C: Step 1*** and the dedicated Port is ***43879***.
+* The `GenKey` is your masternode GEN key form ***Section C: Step 11***.
+* The `TxHash` is the transaction ID/long key that you copied to the text file from ***Section D: Step 6 and 7***.
+* The `Output Index` is the 0 or 1 that you copied to your text file from ***Section D: Step 6 and 7***.
 
 ![Example-create](https://imgur.com/tMkdY7h.png)
 * Click "File Save"
@@ -218,7 +220,8 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ***
 
 ***Step 4***
-* Close out of the wallet and reopen wallet
+* Close out of the wallet and reopen it
+* Unlock your wallet to start your NAV
 * Go to the debug console within the wallet, type the command below and press enter
 
 'startmasternode alias false 'your NAV alias'`
@@ -230,7 +233,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ***
 
 ***Step 5***
-* Check the status of your NAV within the VPS by using the command below:
+* Check the status of your NAV within the VPS by using the command below in Putty terminal:
 
 `/usr/local/bin/NulleX/nullex-cli masternode status`
 
