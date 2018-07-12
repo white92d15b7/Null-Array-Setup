@@ -126,7 +126,9 @@ If you require further assistance contact the support team on [Discord](https://
 
 ***NOTE*** 
 
-The above cmd will install using IPv6 by default. If you are only going to be setting up a single NAV, and you prefer to use IPv4 instead you can force the install to use your IPv$ IP address by using  `sudo sh nullex-nav-installer.sh -N 4`
+The above cmd will install using IPv6 by default. If you are only going to be setting up a single NAV, and you prefer to use IPv4 instead you can force the install to use your IPv$ IP address by using  
+
+`sudo sh nullex-nav-installer.sh -N 4`
 
 ***
 
