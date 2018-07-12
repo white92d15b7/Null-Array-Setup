@@ -201,7 +201,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ***Step 2***
 * Start a new line at the bottom, and make it look like the example on the above line, but with your info.
 
- `'Alias' 'VPS IP Address:Port' 'Genkey' 'TxHash' 'Output Index'`
+ `'Alias' 'VPS IP Address:Port' 'Genkey' 'TxHash' 'Output Index'` (Do not use a ***#*** at the beginning)
 
 * For `Alias` use the one you made for ***Section E: Step 4***
 * The `VPS IP Address:Port` is the IP from ***Section C: Step 1*** and the dedicated Port is ***43879***.
