@@ -232,7 +232,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 * Unlock your wallet to start your NAV
 * Go to the debug console within the wallet, type the command below and press enter
 
-'startmasternode alias false 'your NAV alias'`
+`startmasternode alias false YOUR-NAV-ALIAS`
 
 ![Example-console](https://i.imgur.com/6NM7G9a.png)
 
