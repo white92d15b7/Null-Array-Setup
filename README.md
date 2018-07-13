@@ -133,7 +133,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ***
 
 ***Step 9***
-* Sit back and wait for the install (this will take a few mins)
+* Sit back and wait for the install (this will take a few mins).  You will need a txt file to save info from Step 10.
 ***
 
 ***Step 10***
@@ -141,8 +141,8 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ![Example-installing](https://imgur.com/WQC4FO5.png)
 
 ***Step 11***
-* Make sure you save your genkey as well, it will be right above the info in Step 10.
-![Example-installing](https://imgur.com/NZCHCfp.png)
+* Make sure you save your genkey as well, it is the same as 'masternodeprivkey' in Step 10.
+![Example-installing](https://imgur.com/mzefCdi.png)
 
 ***Step 12***
 * Keep this terminal open as we will need the info for the wallet setup.
@@ -237,7 +237,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 
 `/usr/local/bin/NulleX/nullex-cli masternode status`
 
-*You should see ***status 4 or 9***
+* You should see ***status 4 or 9***
 
 If you do, congratulations! You have now setup a NAV. If you do not, please contact support on Discord or Telegram and they will be happy to assist you.
 
