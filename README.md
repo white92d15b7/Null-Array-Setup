@@ -106,6 +106,7 @@ If you require further assistance contact the support team on [Discord](https://
 
 * Once you have hit enter it will open a security alert (click yes).
 ![Example-RootPassEnter](https://imgur.com/x7ILFUy.png)
+***
 
 ***Step 7***
 * Paste the 2 codes below into the Putty terminal then press enter after each one (it will just go to a new line)
