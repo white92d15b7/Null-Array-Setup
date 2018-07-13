@@ -246,7 +246,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 
 * You should see ***status 4 or 9***
 
-![Example-console](https://imgur.com/B4Wk0in.png)
+![Example-console](https://imgur.com/W1ZAMTk.png)
 
 If you do, congratulations! You have now setup a NAV. If you do not, please contact support on Discord or Telegram and they will be happy to assist you.
 ***
