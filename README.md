@@ -142,7 +142,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 
 ***Step 11***
 * Make sure you save your genkey as well, it is the same as 'masternodeprivkey' in Step 10.
-![Example-installing](https://imgur.com/mzefCdi.png)
+![Example-installing](https://imgur.com/JAnEqlA.png)
 
 ***Step 12***
 * Keep this terminal open as we will need the info for the wallet setup.
