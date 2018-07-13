@@ -248,7 +248,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 
 ![Example-console](https://imgur.com/W1ZAMTk.png)
 
-If you do, congratulations! You have now setup a NAV. If you do not, please contact support on Discord or Telegram and they will be happy to assist you.
+If you do, congratulations! You have now setup a NAV. If you do not, please contact support on [Discord](https://discord.gg/6q7VWpN) or [Telegram](https://t.me/joinchat/ICJpaEhYCYtqic9X1KM7Ew) and they will be happy to assist you.
 ***
 
 This guide was created by a community member.  ***NulleXReb***.  If it has helped you in anyway, made your day, or was the clutch in getting your Array running drop the guy some rewards @ 
