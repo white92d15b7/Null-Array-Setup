@@ -109,11 +109,12 @@ If you require further assistance contact the support team on [Discord](https://
 
 ***Step 7***
 * Paste the 2 codes below into the Putty terminal then press enter after each one (it will just go to a new line)
-![Example-RootPassEnter](https://imgur.com/dDbHPnt.png)
 
 `wget https://raw.githubusercontent.com/NLXionaire/nullex-nav-installer/master/nullex-nav-installer.sh`
 
 `sudo chmod +x nullex-nav-installer.sh`
+
+![Example-RootPassEnter](https://imgur.com/dDbHPnt.png)
 
 ***
 
@@ -139,10 +140,12 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ***Step 10***
 * After the install is complete, scroll up a little bit in the terminal, you will need this info for your cold wallet. 
 ![Example-installing](https://imgur.com/WQC4FO5.png)
+***
 
 ***Step 11***
 * Make sure you save your genkey as well, it is the same as 'masternodeprivkey' in Step 10.
 ![Example-installing](https://imgur.com/JAnEqlA.png)
+***
 
 ***Step 12***
 * Keep this terminal open as we will need the info for the wallet setup, but you also have this info saved in the txt file that we just made.
@@ -171,7 +174,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 * Send EXACLY 50,000 NulleX to the receive address within your wallet that was generated in Step 3.  Do not send any extra for fees, the wallet will automatically add that to the total.
 ***
 
-***step 5***
+***Step 5***
 * Go to the debug console within the wallet 
 
 ![Example-console](https://i.imgur.com/6NM7G9a.png)
