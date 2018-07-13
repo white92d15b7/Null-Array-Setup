@@ -145,7 +145,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ![Example-installing](https://imgur.com/JAnEqlA.png)
 
 ***Step 12***
-* Keep this terminal open as we will need the info for the wallet setup.
+* Keep this terminal open as we will need the info for the wallet setup, but you also have this info saved in the txt file that we just made.
 ***
 
 ## Section D: Preparing the Local Wallet
