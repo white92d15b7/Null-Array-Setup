@@ -122,9 +122,9 @@ If you require further assistance contact the support team on [Discord](https://
 ***Step 8***
 * Paste the code below into the Putty terminal then press enter
 
-![Example-Bash](https://imgur.com/iOSuHgl.png)
-
 `sudo sh nullex-nav-installer.sh`
+
+![Example-Bash](https://imgur.com/iOSuHgl.png)
 
 ***NOTE*** 
 
