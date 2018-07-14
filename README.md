@@ -126,7 +126,7 @@ If you require further assistance contact the support team on [Discord](https://
 
 ![Example-Bash](https://imgur.com/iOSuHgl.png)
 
-***NOTE*** 
+***NOTE*** ***(DO NOT RUN THIS COMMAND IF YOU'VE ALREADY RUN THE ONE ABOVE)
 
 The above cmd will install using IPv6 by default. If you are only going to be setting up a single NAV, and you prefer to use IPv4 instead you can force the install to use your IPv4 IP address by using  
 
