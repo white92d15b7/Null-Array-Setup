@@ -172,7 +172,9 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ***
 
 ***Step 4***
-* Send EXACLY 50,000 NulleX to the receive address within your wallet that was generated in Step 3.  Do not send any extra for fees, the wallet will automatically add that to the total.
+* Send EXACLY 50,000 NulleX to the receive address within your wallet that was generated in Step 3.  Do not send any extra for fees, click ***Choose*** (right next to ***Transaction Fee***) and check the box for ***Send as zero-fee transaction***.
+
+![Example-console](https://imgur.com/FBVOnyA.png)
 ***
 
 ***Step 5***
@@ -192,6 +194,8 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ***Step 7***
 * Copy the long key (this is your transaction ID) and the 0 or 1 at the end (this is your output index)
 * Paste these into the text document you created earlier as you will need them in the next step.
+
+![Example-outputs](https://imgur.com/Z9lsQyd.png)
 ***
 
 # Section E: Connecting & Starting the NAV
