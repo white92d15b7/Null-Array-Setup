@@ -109,6 +109,22 @@ If you require further assistance contact the support team on [Discord](https://
 ***
 
 ***Step 7***
+
+* Adduser to secure VPS, by adding a new username so you aren't running everything as root.  Run the command below and the username to the one that you want specific to your account (Example- 'adduser nullexnav1').  You will then need to make a new password associated with your new username.  Just hit 'Enter' for the next 5 lines after your password, then 'Y' to save your information.
+
+`adduser nullexnav1`
+
+![Example-Bash](https://imgur.com/mrhihrj.png)
+
+* Now you will close your Putty terminal and log back with your new username and password that we made above.  
+
+![Example-Bash](https://imgur.com/FUFkEFu.png)
+
+* ***KEEP YOUR NEW USERNAME AND PASSWORD IN A SAFE PLACE.  THIS WILL BE HOW YOU LOG IN FROM NOW ON.***
+***
+
+***Step 8***
+
 * Paste the 2 codes below into the Putty terminal then press enter after each one (it will just go to a new line)
 
 `wget https://raw.githubusercontent.com/NLXionaire/nullex-nav-installer/master/nullex-nav-installer.sh`
@@ -119,8 +135,8 @@ If you require further assistance contact the support team on [Discord](https://
 
 ***
 
-***Step 8***
-* Paste the code below into the Putty terminal then press enter
+***Step 9***
+* Paste the code below into the Putty terminal then press enter.  ***(THE BELOW COMMAND WILL ALSO BE USED FOR ANY UPDATES THAT ARE MADE TO THE SCRIPT.  YOU WILL JUST RUN THIS SINGLE COMMAND, AND NOT THE 2 ABOVE.  THEY ARE ONLY FOR THE INITIAL INSTALL.)***
 
 `sudo sh nullex-nav-installer.sh`
 
@@ -134,21 +150,21 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 
 ***
 
-***Step 9***
+***Step 10***
 * Sit back and wait for the install (this will take a few mins).  You will need a txt file to save info from Step 10.
 ***
 
-***Step 10***
+***Step 11***
 * After the install is complete, scroll up a little bit in the terminal, you will need this info for your cold wallet. 
 ![Example-installing](https://imgur.com/WQC4FO5.png)
 ***
 
-***Step 11***
+***Step 12***
 * Make sure you save your genkey as well, it is the same as 'masternodeprivkey' in Step 10.
 ![Example-installing](https://imgur.com/JAnEqlA.png)
 ***
 
-***Step 12***
+***Step 13***
 * Keep this terminal open as we will need the info for the wallet setup, but you also have this info saved in the txt file that we just made.
 ***
 
