@@ -110,11 +110,15 @@ If you require further assistance contact the support team on [Discord](https://
 
 ***Step 7***
 
-* Adduser to secure VPS, by adding a new username so you aren't running everything as root.  Run the command below and the username to the one that you want specific to your account (Example- 'adduser nullexnav1').  You will then need to make a new password associated with your new username.  Just hit 'Enter' for the next 5 lines after your password, then 'Y' to save your information.
+* Adduser to secure VPS, by adding a new username so you aren't running everything as root.  Run the command below and the username that you want specific to your account ***('nullexnav1' is an example, you need to use your username).***  You will then need to make a new password associated with your new username.  Just hit 'Enter' for the next 5 lines after your password, then 'Y' to save your information.
 
 `adduser nullexnav1`
 
 ![Example-Bash](https://imgur.com/mrhihrj.png)
+
+* The final step is granting sudo permissions for your adduser.  Run the command below to activate this setting ***('nullexnav1' is an example, you need to use your username).***
+
+`usermod -aG sudo nullexnav1`
 
 * Now you will close your Putty terminal and log back with your new username and password that we made above.  
 
