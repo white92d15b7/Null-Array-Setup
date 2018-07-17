@@ -155,7 +155,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ## Section D: Preparing the Local Wallet
 
 ***Step 1 (if neccessary)***
-* Download and install the NulleX wallet [here](https://github.com/white92d15b7/NLX/releases/tag/1.3.3-NEW)
+* Download and install the NulleX Windows wallet [here](https://github.com/white92d15b7/NLX/releases/download/v1.3.4/nullex-qt.exe)
 ***
 
 ***Step 2***
