@@ -112,7 +112,7 @@ If you require further assistance contact the support team on [Discord](https://
 
 * Adduser to secure your VPS, by adding a new username so you aren't running everything as root.  
 * Run the command below and use a username that you want associated with this server ***('nullexnav1' is an example, you need to use your username).***  
-* You will then need to make a new password associated with your new username.  Just hit 'Enter' for the next 5 lines after your new password, then 'Y' to save your information.
+* You will then need to make a new password associated with your new username.  Hit 'Enter' for the next 5 lines after your new password has been set, then 'Y' to save your information.
 
 `adduser nullexnav1`
 
