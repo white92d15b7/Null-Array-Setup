@@ -106,7 +106,9 @@ If you require further assistance contact the support team on [Discord](https://
 * Before we start the NAV install we are going to make sure Ubuntu is up to date with the 3 commands below.  Run each command separately, when promted choose 'Y' and hit Enter.
 
 `apt-get update`
+
 `apt-get upgrade`
+
 `apt-get dist-upgrade`
 
 ***
