@@ -99,16 +99,24 @@ If you require further assistance contact the support team on [Discord](https://
 
 ***Step 5***
 * Copy the root password from the VULTR server page.
-
 ![Example-RootPass](https://i.imgur.com/JnXQXav.png)
 ***
 
-***Step 6*** 
+**Step 6***
+* Before we start the NAV install we are going to make sure Ubuntu is up to date with the 3 commands below.  Run each command separately, when promted choose 'Y' and hit Enter.
+
+`apt-get update`
+`apt-get upgrade`
+`apt-get dist-upgrade`
+
+***
+
+***Step 7*** 
 * Paste the password into the Putty terminal by right clicking (it will not show the password so just press enter).
 ![Example-RootPassEnter](https://imgur.com/65jWobg.png)
 ***
 
-***Step 7***
+***Step 8***
 
 * Adduser to secure your VPS, by adding a new username so you aren't running everything as root.  
 * Run the command below and use a username that you want associated with this server ***('nullexnav1' is an example, you need to use your username).***  
@@ -129,7 +137,7 @@ If you require further assistance contact the support team on [Discord](https://
 * ***KEEP YOUR NEW USERNAME AND PASSWORD IN A SAFE PLACE.  THIS WILL BE HOW YOU LOG IN FROM NOW ON.***
 ***
 
-***Step 8***
+***Step 9***
 
 * Paste the 2 codes below into the Putty terminal then press enter after each one (it will just go to a new line)
 
@@ -141,7 +149,7 @@ If you require further assistance contact the support team on [Discord](https://
 
 ***
 
-***Step 9***
+***Step 10***
 * Paste the code below into the Putty terminal then press enter.  ***(THE BELOW COMMAND WILL ALSO BE USED FOR ANY UPDATES THAT ARE MADE TO THE SCRIPT.  YOU WILL JUST RUN THIS SINGLE COMMAND, AND NOT THE 2 ABOVE.  THEY ARE ONLY FOR THE INITIAL INSTALL.)***
 
 `sudo sh nullex-nav-installer.sh`
@@ -156,21 +164,21 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 
 ***
 
-***Step 10***
+***Step 11***
 * Sit back and wait for the install (this will take a few mins).  You will need a txt file to save info from Step 10.
 ***
 
-***Step 11***
+***Step 12***
 * After the install is complete, scroll up a little bit in the terminal, you will need this info for your cold wallet. 
 ![Example-installing](https://imgur.com/WQC4FO5.png)
 ***
 
-***Step 12***
+***Step 13***
 * Make sure you save your genkey as well, it is the same as 'masternodeprivkey' in Step 10.
 ![Example-installing](https://imgur.com/JAnEqlA.png)
 ***
 
-***Step 13***
+***Step 14***
 * Keep this terminal open as we will need the info for the wallet setup, but you also have this info saved in the txt file that we just made.
 ***
 
