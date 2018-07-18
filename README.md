@@ -87,25 +87,25 @@ If you require further assistance contact the support team on [Discord](https://
 ***
 
 ***Step 3***
+
+* Once you have hit enter it will open a security alert (click yes).
+![Example-RootPassEnter](https://imgur.com/x7ILFUy.png)
+***
+
+***Step 4***
 * Type "root" as the login/username.
 ![Example-Root](https://imgur.com/S0fcGzm.png)
 ***
 
-***Step 4***
+***Step 5***
 * Copy the root password from the VULTR server page.
 
 ![Example-RootPass](https://i.imgur.com/JnXQXav.png)
 ***
 
-***Step 5*** 
+***Step 6*** 
 * Paste the password into the Putty terminal by right clicking (it will not show the password so just press enter).
 ![Example-RootPassEnter](https://imgur.com/65jWobg.png)
-***
-
-***Step 6***
-
-* Once you have hit enter it will open a security alert (click yes).
-![Example-RootPassEnter](https://imgur.com/x7ILFUy.png)
 ***
 
 ***Step 7***
