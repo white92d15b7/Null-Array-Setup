@@ -103,7 +103,12 @@ If you require further assistance contact the support team on [Discord](https://
 ![Example-RootPass](https://i.imgur.com/JnXQXav.png)
 ***
 
-***Step 6***
+***Step 6*** 
+* Paste the password into the Putty terminal by right clicking (it will not show the password so just press enter).
+![Example-RootPassEnter](https://imgur.com/65jWobg.png)
+***
+
+***Step 7***
 * Before we start the NAV install we are going to make sure Ubuntu is up to date with the 3 commands below.  Run each command separately, when promted choose 'Y' and hit Enter.
 
 `apt-get update`
@@ -112,11 +117,6 @@ If you require further assistance contact the support team on [Discord](https://
 
 `apt-get dist-upgrade`
 
-***
-
-***Step 7*** 
-* Paste the password into the Putty terminal by right clicking (it will not show the password so just press enter).
-![Example-RootPassEnter](https://imgur.com/65jWobg.png)
 ***
 
 ***Step 8***
