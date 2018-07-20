@@ -108,6 +108,7 @@ If you require further assistance contact the support team on [Discord](https://
 ***
 
 ***Step 7***
+
 ***WARNING- IF YOU HAVE ALREADY RUN THE INSTALL SCRIPT, AND YOU ARE JUST UPDATING IT, MAKE SURE TO STOP YOUR WALLET BEFORE RUNNING THE FOLLOWING COMMANDS.***
 
 * Before we start the NAV install we are going to make sure Ubuntu is up to date with the 3 commands below.  Run each command separately, when promted choose 'Y' and hit Enter.
@@ -142,6 +143,7 @@ If you require further assistance contact the support team on [Discord](https://
 ***
 
 ***Step 9***
+
 ***YOU ONLY NEED TO RUN THESE 2 COMMANDS IF IT'S A NEW INSTALL.  IF YOU ARE JUST UPDATING A PREVIOUS INSTALL, YOU ONLY NEED TO RUN THE COMMAND IN STEP 10.***
 
 * Paste the 2 codes below separately into the Putty terminal then press enter after each one (it will just go to a new line)
