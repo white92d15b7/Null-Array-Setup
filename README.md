@@ -87,7 +87,6 @@ If you require further assistance contact the support team on [Discord](https://
 ***
 
 ***Step 3***
-
 * Once you have hit enter it will open a security alert (click yes).
 ![Example-RootPassEnter](https://imgur.com/x7ILFUy.png)
 ***
@@ -109,6 +108,8 @@ If you require further assistance contact the support team on [Discord](https://
 ***
 
 ***Step 7***
+***WARNING- IF YOU HAVE ALREADY RUN THE INSTALL SCRIPT, AND YOU ARE JUST UPDATING IT, MAKE SURE TO STOP YOUR WALLET BEFORE RUNNING THE FOLLOWING COMMANDS.***
+
 * Before we start the NAV install we are going to make sure Ubuntu is up to date with the 3 commands below.  Run each command separately, when promted choose 'Y' and hit Enter.
 
 `apt-get update`
@@ -120,9 +121,8 @@ If you require further assistance contact the support team on [Discord](https://
 ***
 
 ***Step 8***
-
 * Adduser to secure your VPS, by adding a new username so you aren't running everything as root.  
-* Run the command below and use a username that you want associated with this server ***('nullexnav1' is an example, you need to use your username).***  
+* Run the command below and use a username that you want associated with this server ***('nullexnav1' is an example, you need to use your own username).***  
 
 `adduser nullexnav1`
 
@@ -142,8 +142,9 @@ If you require further assistance contact the support team on [Discord](https://
 ***
 
 ***Step 9***
+***YOU ONLY NEED TO RUN THESE 2 COMMANDS IF IT'S A NEW INSTALL.  IF YOU ARE JUST UPDATING A PREVIOUS INSTALL, YOU ONLY NEED TO RUN THE COMMAND IN STEP 10.***
 
-* Paste the 2 codes below into the Putty terminal then press enter after each one (it will just go to a new line)
+* Paste the 2 codes below separately into the Putty terminal then press enter after each one (it will just go to a new line)
 
 `wget https://raw.githubusercontent.com/NLXionaire/nullex-nav-installer/master/nullex-nav-installer.sh`
 
@@ -173,13 +174,13 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ***
 
 ***Step 12***
-* After the install is complete, scroll up a little bit in the terminal, you will need this info for your cold wallet. 
+* After the install is complete, scroll up a little bit in the terminal.  
 ![Example-installing](https://imgur.com/WQC4FO5.png)
 ***
 
 ***Step 13***
-* Make sure you save your genkey as well, it is the same as 'masternodeprivkey' in Step 10.
-![Example-installing](https://imgur.com/JAnEqlA.png)
+* Save this info in the txt file that we made earlier, you will need this info for your cold wallet.  Genkey is the same as 'masternodeprivkey'.
+![Example-installing](https://imgur.com/bJACITk.png)
 ***
 
 ***Step 14***
@@ -256,7 +257,6 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ***
 
 ***Step 3***
-
 * Go to the tools tab within the wallet and click open 'wallet configuration file' and enter the info from ***Section C, Step 10***.
 ![Example-create](https://imgur.com/7XENqin.png)
 ***
