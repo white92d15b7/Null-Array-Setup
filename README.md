@@ -260,7 +260,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 
 ***Step 3***
 * Go to the tools tab within the wallet and click open 'wallet configuration file' and enter the info from ***Section C, Step 10***.
-![Example-create](https://imgur.com/7XENqin.png)
+![Example-create](https://imgur.com/bJACITk.png)
 ***
 
 ***Step 4***
