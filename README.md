@@ -127,9 +127,17 @@ If you require further assistance contact the support team on [Discord](https://
 
 `adduser nullexnav1`
 
+***
+
+***Step 9***
+
 * You will then need to make a new password associated with your new username.  Hit 'Enter' for the next 5 lines after your new password has been set, then 'Y' to save your information.
 
 ![Example-Bash](https://imgur.com/mrhihrj.png)
+
+***
+
+***Step 10***
 
 * The final step is granting sudo permissions for your adduser.  Run the command below to activate this setting ***('nullexnav1' is an example, you need to use your username).***
 
@@ -142,9 +150,9 @@ If you require further assistance contact the support team on [Discord](https://
 * ***KEEP YOUR NEW USERNAME AND PASSWORD IN A SAFE PLACE.  THIS WILL BE HOW YOU LOG IN FROM NOW ON.***
 ***
 
-***Step 9***
+***Step 11***
 
-***YOU ONLY NEED TO RUN THESE 2 COMMANDS IF IT'S A NEW INSTALL.  IF YOU ARE JUST UPDATING A PREVIOUS INSTALL, YOU ONLY NEED TO RUN THE COMMAND IN STEP 10.***
+***YOU ONLY NEED TO RUN THESE 2 COMMANDS IF IT'S A NEW INSTALL.  IF YOU ARE JUST UPDATING A PREVIOUS INSTALL, YOU ONLY NEED TO RUN THE COMMAND IN STEP 12.***
 
 * Paste the 2 codes below separately into the Putty terminal then press enter after each one (it will just go to a new line)
 
@@ -156,7 +164,7 @@ If you require further assistance contact the support team on [Discord](https://
 
 ***
 
-***Step 10***
+***Step 12***
 * Paste the code below into the Putty terminal then press enter.  ***(THE BELOW COMMAND WILL ALSO BE USED FOR ANY UPDATES THAT ARE MADE TO THE SCRIPT.  YOU WILL JUST RUN THIS SINGLE COMMAND, AND NOT THE 2 ABOVE.  THEY ARE ONLY FOR THE INITIAL INSTALL.)***
 
 `sudo sh nullex-nav-installer.sh`
@@ -171,21 +179,21 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 
 ***
 
-***Step 11***
+***Step 13***
 * Sit back and wait for the install (this will take a few mins).  You will need a txt file to save info from Step 10.
 ***
 
-***Step 12***
+***Step 14***
 * After the install is complete, scroll up a little bit in the terminal.  
 ![Example-installing](https://imgur.com/WQC4FO5.png)
 ***
 
-***Step 13***
+***Step 15***
 * Save this info in the txt file that we made earlier, you will need this info for your cold wallet.  Genkey is the same as 'masternodeprivkey'.
 ![Example-installing](https://imgur.com/bJACITk.png)
 ***
 
-***Step 14***
+***Step 16***
 * Keep this terminal open as we will need the info for the wallet setup, but you also have this info saved in the txt file that we just made.
 ***
 
@@ -248,7 +256,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 
  `'Alias' 'VPS IP Address:Port' 'Genkey' 'TxHash' 'Output Index'` ***(Do not use a # at the beginning)***
 
-* For `Alias` use the one you made for ***Section E: Step 4***
+* For `Alias` use the one you made for ***Section D: Step 3***
 * The `VPS IP Address:Port` is the IP from ***Section C: Step 1*** and the dedicated Port is ***43879***.
 * The `GenKey` is your masternode genkey from ***Section C: Step 11***.
 * The `TxHash` is the transaction ID/long key that you copied to the text file from ***Section D: Step 6 and 7***.
