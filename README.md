@@ -274,7 +274,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ***Step 4***
 * Check the status of your VPS wallet to make sure it's on the same block as your controller wallet.
 
-`/usr/local/bin/NulleX/nullex-cli getmininginfo`
+`nullex-cli getblockcount`
 
 ![Example-console](https://imgur.com/B4Wk0in.png)
 ***
@@ -294,7 +294,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ***Step 6***
 * Check the status of your NAV within the VPS by using the command below in Putty terminal:
 
-`/usr/local/bin/NulleX/nullex-cli masternode status`
+`nullex-cli masternode status`
 
 * You should see ***status 4 or 9***
 
