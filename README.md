@@ -185,7 +185,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 
 ***Step 14***
 * After the install is complete, scroll up a little bit in the terminal.  
-![Example-installing](https://imgur.com/F4Efvlf)
+![Example-installing](https://imgur.com/F4Efvlf.png)
 ***
 
 ***Step 15***
