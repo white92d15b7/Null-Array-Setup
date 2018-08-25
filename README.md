@@ -190,7 +190,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 
 ***Step 15***
 * Save this info in the txt file that we made earlier, you will need this info for your cold wallet.  Genkey is the same as 'masternodeprivkey'.
-![Example-installing](https://imgur.com/bJACITk.png)
+![Example-installing](https://imgur.com/NZu39SV.png)
 ***
 
 ***Step 16***
