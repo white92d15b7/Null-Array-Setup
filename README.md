@@ -99,7 +99,7 @@ If you require further assistance contact the support team on [Discord](https://
 ***Step 5***
 * Copy the root password from the VULTR server page.
 
-![Example-RootPass](https://i.imgur.com/JnXQXav.png)
+![Example-RootPassEnter](https://i.imgur.com/JnXQXav.png)
 ***
 
 ***Step 6*** 
