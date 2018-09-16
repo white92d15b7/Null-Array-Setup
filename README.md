@@ -108,20 +108,6 @@ If you require further assistance contact the support team on [Discord](https://
 ***
 
 ***Step 7***
-
-***WARNING- IF YOU HAVE ALREADY RUN THE INSTALL SCRIPT, AND YOU ARE JUST UPDATING IT, MAKE SURE TO STOP YOUR WALLET BEFORE RUNNING THE FOLLOWING COMMANDS.***
-
-* Before we start the NAV install we are going to make sure Ubuntu is up to date with the 3 commands below.  Run each command separately, when promted choose 'Y' and hit Enter.
-
-`apt-get update`
-
-`apt-get upgrade`
-
-`apt-get dist-upgrade`
-
-***
-
-***Step 8***
 * Adduser to secure your VPS, by adding a new username so you aren't running everything as root.  
 * Run the command below and use a username that you want associated with this server ***('nullexnav1' is an example, you need to use your own username).***  
 
@@ -129,7 +115,7 @@ If you require further assistance contact the support team on [Discord](https://
 
 ***
 
-***Step 9***
+***Step 8***
 
 * You will then need to make a new password associated with your new username.  Hit 'Enter' for the next 5 lines after your new password has been set, then 'Y' to save your information.
 
@@ -137,7 +123,7 @@ If you require further assistance contact the support team on [Discord](https://
 
 ***
 
-***Step 10***
+***Step 9***
 
 * The final step is granting sudo permissions for your adduser.  Run the command below to activate this setting ***('nullexnav1' is an example, you need to use your username).***
 
@@ -150,9 +136,9 @@ If you require further assistance contact the support team on [Discord](https://
 * ***KEEP YOUR NEW USERNAME AND PASSWORD IN A SAFE PLACE.  THIS WILL BE HOW YOU LOG IN FROM NOW ON.***
 ***
 
-***Step 11***
+***Step 10***
 
-***YOU ONLY NEED TO RUN THESE 2 COMMANDS IF IT'S A NEW INSTALL.  IF YOU ARE JUST UPDATING A PREVIOUS INSTALL, YOU ONLY NEED TO RUN THE COMMAND IN STEP 12.***
+***YOU ONLY NEED TO RUN THESE 2 COMMANDS IF IT'S A NEW INSTALL.  IF YOU ARE JUST UPDATING A PREVIOUS INSTALL, YOU ONLY NEED TO RUN THE COMMAND IN STEP 11.***
 
 * Paste the 2 codes below separately into the Putty terminal then press enter after each one (it will just go to a new line)
 
@@ -164,7 +150,7 @@ If you require further assistance contact the support team on [Discord](https://
 
 ***
 
-***Step 12***
+***Step 11***
 * Paste the code below into the Putty terminal then press enter.  ***(THE BELOW COMMAND WILL ALSO BE USED FOR ANY UPDATES THAT ARE MADE TO THE SCRIPT.  YOU WILL JUST RUN THIS SINGLE COMMAND, AND NOT THE 2 ABOVE.  THEY ARE ONLY FOR THE INITIAL INSTALL.)***
 
 `sudo sh nullex-nav-installer.sh`
@@ -179,21 +165,21 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 
 ***
 
-***Step 13***
+***Step 12***
 * Sit back and wait for the install (this will take a few mins).  You will need a txt file to save info from Step 10.
 ***
 
-***Step 14***
+***Step 13***
 * After the install is complete, scroll up a little bit in the terminal.  
 ![Example-installing](https://imgur.com/F4Efvlf.png)
 ***
 
-***Step 15***
+***Step 14***
 * Save this info in the txt file that we made earlier, you will need this info for your cold wallet.  Genkey is the same as 'masternodeprivkey'.
 ![Example-installing](https://imgur.com/NZu39SV.png)
 ***
 
-***Step 16***
+***Step 15***
 * Keep this terminal open as we will need the info for the wallet setup, but you also have this info saved in the txt file that we just made.
 ***
 
