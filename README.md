@@ -166,7 +166,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ***
 
 ***Step 12***
-* Sit back and wait for the install (this will take a few mins).  You will need a txt file to save info from Step 10.
+* Sit back and wait for the install (this will take a few mins).  You will need a txt file to save info from Step 11.
 ***
 
 ***Step 13***
@@ -175,12 +175,11 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ***
 
 ***Step 14***
-* Save this info in the txt file that we made earlier, you will need this info for your cold wallet.  Genkey is the same as 'masternodeprivkey'.
-![Example-installing](https://imgur.com/NZu39SV.png)
+* Save genkey in the txt file that we made earlier, you will need this info for your masternode config file.  Genkey is the same as 'masternodeprivkey'.
 ***
 
 ***Step 15***
-* Keep this terminal open as we will need the info for the wallet setup, but you also have this info saved in the txt file that we just made.
+* Keep this terminal open, so that we can check the block count and NAV status in future steps.
 ***
 
 ## Section D: Preparing the Local Wallet
