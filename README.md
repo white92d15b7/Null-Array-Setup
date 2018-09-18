@@ -171,11 +171,11 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 
 ***Step 13***
 * After the install is complete, scroll up a little bit in the terminal.  
-![Example-installing](https://imgur.com/F4Efvlf.png)
+![Example-installing](https://imgur.com/MPeaDrd.png)
 ***
 
 ***Step 14***
-* Save genkey in the txt file that we made earlier, you will need this info for your masternode config file.  Genkey is the same as 'masternodeprivkey'.
+* Save your IP address, port and masternodeprivkey in the txt file that we made earlier, you will need this info for your masternode config file. 
 ***
 
 ***Step 15***
@@ -252,11 +252,6 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ***
 
 ***Step 3***
-* Go to the tools tab within the wallet and click open 'wallet configuration file' and enter the info from ***Section C, Step 13***.
-![Example-create](https://imgur.com/bJACITk.png)
-***
-
-***Step 4***
 * Check the status of your VPS wallet to make sure it's on the same block as your controller wallet.
 
 `nullex-cli getblockcount`
@@ -264,9 +259,9 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ![Example-console](https://imgur.com/B4Wk0in.png)
 ***
 
-***Step 5***
+***Step 4***
 * Close out of the controller wallet and reopen it
-* Unlock your wallet to start your NAV
+* ***UNLOCK YOUR WALLET TO START YOUR NAV!!!!!!!!!!!!!!***
 * Go to the debug console within the wallet, type the command below and press enter
 
 `startmasternode alias false YOUR-NAV-ALIAS`
@@ -276,7 +271,7 @@ The above cmd will install using IPv6 by default. If you are only going to be se
 ![Example-console](https://imgur.com/86XpkOc.png)
 ***
 
-***Step 6***
+***Step 5***
 * Check the status of your NAV within the VPS by using the command below in Putty terminal:
 
 `nullex-cli masternode status`
