@@ -13,7 +13,7 @@ If you require further assistance contact the support team on [Discord](https://
 4) **An SSH client such as [Putty](https://www.putty.org/)**
 ***
 ## Contents
-* **Section A**: Creating the VPS within [Vultr](https://www.vultr.com/?ref=7473052).
+* **Section A**: Creating the VPS within [Vultr](https://www.vultr.com/?ref=7537905).
 * **Section B**: Downloading and installing [Putty](https://www.putty.org/).
 * **Section C**: Connecting to the VPS and installing the NAV script via Putty.
 * **Section D**: Preparing the local wallet.
