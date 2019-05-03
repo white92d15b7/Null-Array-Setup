@@ -142,7 +142,7 @@ If you require further assistance contact the support team on [Discord](https://
 
 * Paste the 2 codes below separately into the Putty terminal then press enter after each one (it will just go to a new line)
 
-`wget https://raw.githubusercontent.com/NLXionaire/nullex-nav-installer/master/nullex-nav-installer.sh`
+`wget https://github.com/white92d15b7/nullex-nav-installer/blob/master/nullex-nav-installer.sh`
 
 `sudo chmod +x nullex-nav-installer.sh`
 
