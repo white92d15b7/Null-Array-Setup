@@ -2,7 +2,7 @@
 # Nullex Null Array Verifier (NAV) Guide (Ubuntu 16.04)
 This guide will assist you in setting up a NulleX NAV on a Linux Server running Ubuntu 16.04. (Use at your own risk)
 
-If you require further assistance contact the support team on [Discord](https://discord.gg/6q7VWpN) or [Telegram](https://t.me/joinchat/ICJpaEhYCYtqic9X1KM7Ew)
+If you require further assistance contact the support team on [Discord](https://discord.gg/hvFACGw)
 
 ***
 ## Requirements
